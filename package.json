@@ -1,0 +1,30 @@
+{
+  "name": "oleksii",
+  "version": "1.0.0",
+  "description": "SeleniumTests vs PageObject pattern",
+  "main": "script.js",
+  "scripts": {
+    "test": "runtest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tverezo/seleniumTesting.git"
+  },
+  "keywords": [
+    "selenium",
+    "testing",
+    "page",
+    "object"
+  ],
+  "author": "Oleksii Ivasiuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tverezo/seleniumTesting/issues"
+  },
+  "homepage": "https://github.com/tverezo/seleniumTesting#readme",
+  "dependencies": {
+    "page-object-pattern": "0.0.4",
+    "python": "0.0.4",
+    "selenium-webdriver": "^2.52.0"
+  }
+}
